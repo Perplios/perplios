@@ -7,7 +7,6 @@ ___
 - 😄 Pronouns: he/him/they/them
 - ⚡ Fun fact: I enjoy playing the bass guitar, driving, and exercise!!  
     
-
 ### Contact Me 📫
 
 ___
