@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋 !! My name is Teo Mateo.
 
-<!--
-**Perplios/perplios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Computer Science @ University of New South Wales
+- 💬 I am learning full stack development to improve myself as a developer
+- 😄 Pronouns: he/him/they/them
+- ⚡ Fun fact: I enjoy playing the bass guitar, driving, and exercise!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me 📫
+
+___
+
+- Email: tlmateo26@gmail.com
+- Instagram: @perplios
